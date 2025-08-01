@@ -1,0 +1,19 @@
+pandas>=1.3.0
+PECmd.exe
+JLECmd.exe
+LECmd.exe
+MFTECmd.exe
+SBECmd.exe
+python3
+
+Some notes :
+
+- The tool it is in first distribution so you need to install the Eric Zimmerman tool and to edit the paths in the code to justify the requirements input to make processes on.
+
+- The tool still under development.
+- The tool will be on Linux soon.
+- The tool will contain Gui soon.
+- The tool will be developed to maintain the Organizations requiements soon.
+
+
+The link of the repo --> https://github.com/abdelrahmansoliman01/Automated-Windows-Artifacts-Extractor-CLI
